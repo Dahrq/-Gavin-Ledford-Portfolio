@@ -1,6 +1,7 @@
 /* overall formatting */
 html {
     background-color: #19191b;
+    font-family: Philosopher, sans-serif;
 }
 
 body::-webkit-scrollbar {
@@ -223,4 +224,9 @@ p {
 
 .email-icon {
     height: 200px;
+}
+
+button{
+ 	background-color: #19191b;
+    color: #19191b;
 }
